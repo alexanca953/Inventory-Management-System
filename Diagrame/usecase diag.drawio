@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel dx="2054" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-2" value="USER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="100" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="360" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-4" value="Add Clients&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="20" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-5" value="Delete Clients" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="120" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-6" value="Edit existing clients" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="230" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="263" as="sourcePoint" />
+            <mxPoint x="339" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="273" as="sourcePoint" />
+            <mxPoint x="349" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-10" value="Add Products" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="263" as="sourcePoint" />
+            <mxPoint x="339" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-13" value="Delete Products" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="410" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-14" value="Edit existing Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="820" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-15" value="Edit existing Products" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="520" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-16" value="Delete Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="720" width="171" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-18" value="Create Orders" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="620" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="513" as="sourcePoint" />
+            <mxPoint x="339" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="550" as="sourcePoint" />
+            <mxPoint x="339" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="560" as="sourcePoint" />
+            <mxPoint x="349" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="570" as="sourcePoint" />
+            <mxPoint x="359" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="580" as="sourcePoint" />
+            <mxPoint x="369" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-25" value="Generate BILL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="flGTG3BlkBvRS7H_dJPp-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flGTG3BlkBvRS7H_dJPp-2" target="flGTG3BlkBvRS7H_dJPp-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="505" as="sourcePoint" />
+            <mxPoint x="330" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
