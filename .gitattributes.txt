@@ -1,0 +1,5 @@
+*.java linguist-language=Java
+*.sql linguist-language=SQL
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
