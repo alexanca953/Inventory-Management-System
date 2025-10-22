@@ -1,5 +1,10 @@
+# Forțăm limbajul principal Java
 *.java linguist-language=Java
+
+# SQL să fie detectat corect
 *.sql linguist-language=SQL
+
+# Ignorăm fișierele frontend (HTML, JS, CSS) pentru statistică
 *.html linguist-vendored
 *.css linguist-vendored
 *.js linguist-vendored
